@@ -1,0 +1,69 @@
+[
+{
+    "picture": "./assets/img/gallery/photos/15.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/15.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/2.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/2.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/3.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/3.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "https://images.pexels.com/photos/40751/running-runner-long-distance-fitness-40751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "thumbnailURL":"src/assets/img/gallery/photos/4.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/5.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/5.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/6.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/6.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/7.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/7.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/8.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/8.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/9.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/9.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/10.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/10.jpg",
+    "width": "1280",
+    "height": "720"
+},
+{
+    "picture": "src/assets/img/gallery/photos/11.jpg",
+    "thumbnailURL":"src/assets/img/gallery/photos/11.jpg",
+    "width": "1280",
+    "height": "720"
+}
+
+]

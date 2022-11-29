@@ -539,7 +539,7 @@ body {
   width: 100%;
   display: block;
   height: 60vh;
-  background-image: url("/assets/img/gallery/photos/14.jpg");
+  background-image: url("https://res.cloudinary.com/lzgga/image/upload/v1669754798/d7rhih4v3y2s4gj6iits.jpg");
   background-position: top;
   background-size: cover;
   display: flex;
@@ -682,7 +682,7 @@ body {
 .about-us .left-side {
   width: 56%;
   display: block;
-  background-image: url("/assets/img/doc-1.jpg");
+  background-image: url("https://res.cloudinary.com/lzgga/image/upload/v1669754831/gqvascwq7gsygqyauo1a.jpg");
   background-size: cover;
   height: 500px;
   position: relative;
@@ -1015,7 +1015,7 @@ body {
 
 .stats:before {
   content: "";
-  background-image: url("/assets/img/grass.png");
+  background-image: url("https://res.cloudinary.com/lzgga/image/upload/v1669754855/xwzezlvborqyz7fpkrbt.png");
   width: 100%;
   height: 100%;
   position: absolute;
@@ -3567,7 +3567,10 @@ nav .burger-btn-wrapper {
   .stats .container {
     width: 100%;
   }
-
+  .stats .container .split-4 .icon {
+    height: 70px;
+    width: 70px;
+  }
   .stats .container .split-4 svg {
     font-size: 11px;
   }

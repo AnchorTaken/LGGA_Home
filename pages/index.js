@@ -40,7 +40,7 @@ export default function Home() {
 
   return (
     <>
-      <div className="main-content whole-thingg">
+      <div className="main-content">
         <MetaTags
           title={"LGGA - Pagrindinis"}
           desc={
